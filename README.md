@@ -38,11 +38,6 @@
 
 ### **Tools & Platforms**
 
-![REST](https://img.shields.io/badge/API-REST-orange)
-![JWT](https://img.shields.io/badge/Auth-JWT-red)
-
-### **Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
@@ -51,46 +46,29 @@
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-### Youtube Chatbot
+### 🗫 Youtube Chatbot
 
 **Tech:** Next.js • TypeScript • Tailwind CSS • LangChain • Qdrant Vector Store • HuggingFace
 
-**Deployed:** [https://yt-chatbot-chi.vercel.app](https://yt-chatbot-chi.vercel.app)
+🔗**Deployed:** [https://yt-chatbot-chi.vercel.app](https://yt-chatbot-chi.vercel.app)
 
-**Repo:** [https://github.com/apoorvaww/yt-chatbot](https://github.com/apoorvaww/yt-chatbot)
-
-* Ask questions directly about the video
-* Get answers grounded in retrieved transcript segments
-* Avoid hallucinations thanks to strict RAG prompting
-
+🔗**Repo:** [https://github.com/apoorvaww/yt-chatbot](https://github.com/apoorvaww/yt-chatbot)
 
 ### 🔐 MysteryMsg – Anonymous Messaging Platform
 
 **Tech:** Next.js • TypeScript • MongoDB • NextAuth • Gemini AI • Resend
 
-**Deployed:** [https://mysterymsg.vercel.app](https://mysterymsg.vercel.app)
+🔗**Deployed:** [https://mysterymsg.vercel.app](https://mysterymsg.vercel.app)
 
-**Repo:** [https://github.com/apoorvaww/mysterymsg](https://github.com/apoorvaww/mysterymsg)
+🔗**Repo:** [https://github.com/apoorvaww/mysterymsg](https://github.com/apoorvaww/mysterymsg)
 
-* Secure anonymous messaging via shareable profile links
-* AI‑powered message suggestions using Gemini API
-* Email notifications with Resend
-* Responsive UI built with shadcn components
-* Robust authentication & validation layers
-
-### Blogger - A blogging app
+### ✍️ Blogger - A blogging app
 
 **Tech:** MERN stack • Tailwind CSS • TinyMCE • Cloudinary
 
 **Repo:** [https://github.com/apoorvaww/blogger](https://github.com/apoorvaww/blogger)
-
-* Authentication & Authorization Secure login and registration with JWT and cookie-based authentication.
-* Blog CRUD Operations Full support for creating, editing, viewing, and deleting blog posts with rich text and media.
-* API Integration with Axios
-* Image Uploads with Cloudinary Upload and manage media assets easily and efficiently.
-
 
 
 ### 🧩 DSA Practice Suite (Java)
