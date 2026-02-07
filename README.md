@@ -1,8 +1,4 @@
-
-
-
-
-### Hi there, I'm Apoorva! 👋
+# Hi there, I'm Apoorva! 👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=apoorvaww\&color=blue)](https://github.com/apoorvaw/apoorvaww)
 
@@ -40,7 +36,7 @@
   <img src="https://img.shields.io/badge/Resend-4A154B?style=for-the-badge" />
 </div>
 
-### **Tools & Platforms**een)
+### **Tools & Platforms**
 
 ![REST](https://img.shields.io/badge/API-REST-orange)
 ![JWT](https://img.shields.io/badge/Auth-JWT-red)
@@ -57,10 +53,25 @@
 
 ## 💼 Featured Projects
 
+### Youtube Chatbot
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • LangChain • Qdrant Vector Store • HuggingFace
+
+**Deployed:** [https://yt-chatbot-chi.vercel.app](https://yt-chatbot-chi.vercel.app)
+
+**Repo:** [https://github.com/apoorvaww/yt-chatbot](https://github.com/apoorvaww/yt-chatbot)
+
+* Ask questions directly about the video
+* Get answers grounded in retrieved transcript segments
+* Avoid hallucinations thanks to strict RAG prompting
+
+
 ### 🔐 MysteryMsg – Anonymous Messaging Platform
 
 **Tech:** Next.js • TypeScript • MongoDB • NextAuth • Gemini AI • Resend
+
 **Deployed:** [https://mysterymsg.vercel.app](https://mysterymsg.vercel.app)
+
 **Repo:** [https://github.com/apoorvaww/mysterymsg](https://github.com/apoorvaww/mysterymsg)
 
 * Secure anonymous messaging via shareable profile links
@@ -69,20 +80,31 @@
 * Responsive UI built with shadcn components
 * Robust authentication & validation layers
 
+### Blogger - A blogging app
+
+**Tech:** MERN stack • Tailwind CSS • TinyMCE • Cloudinary
+
+**Repo:** [https://github.com/apoorvaww/blogger](https://github.com/apoorvaww/blogger)
+
+* Authentication & Authorization Secure login and registration with JWT and cookie-based authentication.
+* Blog CRUD Operations Full support for creating, editing, viewing, and deleting blog posts with rich text and media.
+* API Integration with Axios
+* Image Uploads with Cloudinary Upload and manage media assets easily and efficiently.
+
+
+
 ### 🧩 DSA Practice Suite (Java)
 
-**Repo:** [https://github.com/apoorvaww/dsa-java](https://github.com/apoorvaww/dsa-java)
+**Repo:** [https://github.com/apoorvaww/LeetCode](https://github.com/apoorvaww/LeetCode)
 
-* 20+ implementations across graphs, DP, trees & sliding window
-* Optimized solutions with complexity analysis
-* Well‑documented dry runs and test cases
 
 ---
 
+
 ## 🏆 Coding Profiles
 
-* **LeetCode:** [https://leetcode.com/apoorvaww](https://leetcode.com/apoorvaww)
-* **GeeksForGeeks:** [https://auth.geeksforgeeks.org/user/apoorvaww](https://auth.geeksforgeeks.org/user/apoorvaww)
+* **LeetCode:** [https://leetcode.com/apoorvaw01](https://leetcode.com/apoorvaw01)
+* **GeeksForGeeks:** [https://www.geeksforgeeks.org/profile/apoorvaw](https://www.geeksforgeeks.org/profile/apoorvaw)
 * **GitHub:** [https://github.com/apoorvaww](https://github.com/apoorvaww)
 
 ---
@@ -94,17 +116,6 @@
 * AI‑assisted features and vector search
 * Writing clean, testable and maintainable code
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvaww\&show_icons=true\&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=apoorvaww\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvaww\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Connect
 
